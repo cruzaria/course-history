@@ -1,0 +1,26 @@
+{
+    "image012.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "Fisk", 
+            "name": "image012.jpg", 
+            "org": "MGPPU", 
+            "revision": null, 
+            "run": "2017", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image012.jpg", 
+        "filename": "asset-v1:MGPPU+Fisk+2017+type@asset+block@image012.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "MGPPU", 
+            "Fisk", 
+            "thumbnail", 
+            "image012.jpg", 
+            null
+        ]
+    }
+}
